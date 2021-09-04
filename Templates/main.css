@@ -32,3 +32,19 @@
     /* margin-left: 100px; */
     color: steelblue;
 }
+a.btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+a.btn-first{
+    background-color: steelblue;
+    color: #fff;
+    
+}
+a.btn-second{
+    margin-left: 2px;
+    background-color: steelblue;
+    color: #fff;
+}
