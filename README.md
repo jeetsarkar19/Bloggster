@@ -1,3 +1,7 @@
 # Bloggster
-### A Blog page based on simple HTML,CSS and Bootstrap
-
+### A simple web development project
+### Techstacks to be used: 
+* HTML
+* CSS
+* Bootstrap
+* Django 
